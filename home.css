@@ -1,0 +1,26 @@
+.general {
+    background-color: aqua;
+    width: 280px;
+    color: blueviolet;
+    padding: 20px 20px;
+}
+
+ul {
+    list-style-type: none;
+    padding: 0px;
+    margin: 0px
+}
+
+ul li {
+    margin-bottom: 10px;
+}
+
+ul li a {
+    text-decoration: none;
+}
+
+ul li a:hover {
+    color: red;
+}
+
+
